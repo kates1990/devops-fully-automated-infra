@@ -43,6 +43,7 @@ Fully automated and secured Terraform infra pipeline
     - Click "Available"
     - Search and Install the following Plugings "Install Without Restart"        
         - **Slack Notification**
+        for slack
 
 
 
